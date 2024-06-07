@@ -14,5 +14,6 @@ import com.mojang.minecraft.GameRenderer
 ```
 
 - [x] Yaktocat
+- [ ] Octocate
 - [ ] Byte
 - [ ] The water droplet guy
