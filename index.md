@@ -1,4 +1,4 @@
-# <h1> Header
+# Header
 ## <h2> Sub Header
 ### <h3> Mini Header
 Look at this
