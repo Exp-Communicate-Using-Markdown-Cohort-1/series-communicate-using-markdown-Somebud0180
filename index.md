@@ -8,6 +8,11 @@ Look at this
 var = name
 print("hello world")
 ```
+
+```
+import com.mojang.minecraft.GameRenderer
+```
+
 - [ ] Octocat
 - [ ] Byte
 - [ ] The water droplet guy
