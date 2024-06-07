@@ -13,6 +13,6 @@ print("hello world")
 import com.mojang.minecraft.GameRenderer
 ```
 
-- [ ] Octocat
+- [x] Yaktocat
 - [ ] Byte
 - [ ] The water droplet guy
